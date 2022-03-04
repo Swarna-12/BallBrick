@@ -1,8 +1,8 @@
 # BallBrick
 This app is used to build the ball brick in which there will be a ball at ground level and with that ball you have to destroy all the bricks.
-G    = Ground level   
-W   = Wall
-O   = Ball
+G  = Ground level   
+W  = Wall
+O  = Ball
 ST = Straight
 LD = Left Diagonal
 RD = Right Diagonal
